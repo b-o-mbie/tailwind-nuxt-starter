@@ -4,9 +4,9 @@
 
 Starter project for static site tailwind webpages. 
 
-`tailwind` and `nuxt.js` has excelent documentation on this topic so this repo has two goals:
+tailwind and nuxt.js has excelent documentation on this topic so this repo has two goals:
  - to get started faster (as this is a template repo)
- - to gather up all the neccessary docs from setting up `tailwind` to configure `github pages cd` 
+ - to gather up all the neccessary docs from setting up tailwind to configure github pages cd 
 
 ## stack
  - [tailwind](https://tailwindcss.com/) - css framework
