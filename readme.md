@@ -14,8 +14,10 @@ tailwind and nuxt.js has excelent documentation on this topic so this repo has t
  - [GitHub pages](https://pages.github.com/) - hosting
 
 ## tl;dr;
+### _You should only use this repo to get familiar with these techs_
+_After a while you should set up your things using the official docs as this project may be outdated._
 ### ide
-You may use VS Code with these plugin to have an [amazing support](https://tailwindcss.com/docs/intellisense) for tailwind.
+VS Code with these plugin has an [amazing support](https://tailwindcss.com/docs/intellisense) for tailwind.
  - [VS Code](https://code.visualstudio.com/)
  - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
  - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
